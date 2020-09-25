@@ -13,11 +13,11 @@ physical challenge:
 - quit
 
 #Music#
-- background Music
-- Game over
-- flap Music
-- warning 
-- sound for powerups
+- background Music： background
+- Game over： Game Over
+- flap Music： Flap
+- warning： 
+- sound for powerups：Coin
 
 #Extra feature
 - speed up?
